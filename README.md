@@ -55,6 +55,7 @@ docker run -v /path/to/your/data:/app/custom-data anveshbandari/wine-quality-pre
 ## Performance
 
 The model achieves an F1 score of approximately 0.55 on the validation dataset.
+![image](https://github.com/user-attachments/assets/a27c3957-aba0-44b5-88ad-617d4638cee0)
 
 ## Technologies Used
 
